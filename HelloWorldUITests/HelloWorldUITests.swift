@@ -2,7 +2,7 @@
 //  HelloWorldUITests.swift
 //  HelloWorldUITests
 //
-//  Created by Arturo De la Pena on 4/2/24.
+//  Created by Brenda Vega Contreras on 4/2/24.
 //
 
 import XCTest
