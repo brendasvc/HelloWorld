@@ -37,7 +37,7 @@ struct ContentView: View {
                     showSheet2.toggle()
                 }
                 .font(.title2)
-                .background(Color(red: 0.8, green: 0.9, blue: 0.5))
+                .background(Color(red: 0.5, green: 0.9, blue: 0.5))
                 .sheet(isPresented: $showSheet2, content: {
                     NextScreen(selectedModel: RandomModel(title: "HELLO WORLD TWO")){
                         self.showSheet2 = false
